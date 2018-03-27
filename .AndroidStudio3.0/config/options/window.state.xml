@@ -6,9 +6,9 @@
     <state x="92" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" />
     <state x="92" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1080" />
     <state x="92" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1080@0.0.1920.1080" />
-    <state x="95" y="100" width="1724" height="855" key="dock-window-1" />
-    <state x="95" y="100" width="1724" height="855" key="dock-window-1/0.0.1920.1080" />
-    <state x="95" y="100" width="1724" height="855" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" />
+    <state x="1471" y="0" width="465" height="694" key="dock-window-1" />
+    <state x="1471" y="0" width="465" height="694" key="dock-window-1/0.0.1920.1080" />
+    <state x="1471" y="0" width="465" height="694" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-10" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-10/0.0.1920.1080" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-10/0.0.1920.1080@0.0.1920.1080" />
@@ -30,9 +30,9 @@
     <state x="95" y="100" width="1724" height="855" key="dock-window-16" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-16/0.0.1920.1080" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-16/0.0.1920.1080@0.0.1920.1080" />
-    <state x="95" y="100" width="1724" height="855" key="dock-window-17" />
-    <state x="95" y="100" width="1724" height="855" key="dock-window-17/0.0.1920.1080" />
-    <state x="95" y="100" width="1724" height="855" key="dock-window-17/0.0.1920.1080@0.0.1920.1080" />
+    <state x="769" y="253" width="707" height="529" key="dock-window-17" />
+    <state x="769" y="253" width="707" height="529" key="dock-window-17/0.0.1920.1080" />
+    <state x="769" y="253" width="707" height="529" key="dock-window-17/0.0.1920.1080@0.0.1920.1080" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-18" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-18/0.0.1920.1080" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-18/0.0.1920.1080@0.0.1920.1080" />
@@ -141,12 +141,75 @@
     <state x="95" y="100" width="1724" height="855" key="dock-window-5" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-5/0.0.1920.1080" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-5/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-50" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-50/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-50/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-51" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-51/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-51/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-52" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-52/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-52/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-53" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-53/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-53/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-54" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-54/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-54/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-55" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-55/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-55/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-56" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-56/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-56/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-57" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-57/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-57/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-58" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-58/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-58/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-59" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-59/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-59/0.0.1920.1080@0.0.1920.1080" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-6" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-6/0.0.1920.1080" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-6/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-60" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-60/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-60/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-61" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-61/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-61/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-62" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-62/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-62/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-63" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-63/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-63/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-64" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-64/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-64/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-65" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-65/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-65/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-66" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-66/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-66/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-67" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-67/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-67/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-68" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-68/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-68/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-69" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-69/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-69/0.0.1920.1080@0.0.1920.1080" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-7" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-7/0.0.1920.1080" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-7/0.0.1920.1080@0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-70" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-70/0.0.1920.1080" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-70/0.0.1920.1080@0.0.1920.1080" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-8" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-8/0.0.1920.1080" />
     <state x="95" y="100" width="1724" height="855" key="dock-window-8/0.0.1920.1080@0.0.1920.1080" />

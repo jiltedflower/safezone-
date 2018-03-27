@@ -3,13 +3,13 @@
     <property name="AndroidInitConfigurator.V5" value="true" />
     <property name="AndroidInitConfigurator.V3" value="true" />
     <property name="AndroidInitConfigurator.V1" value="true" />
-    <property name="installed.kotlin.plugin.version" value="1.2.21-release-Studio3.0-1" />
-    <property name="android-component-compatibility-check" value="1518733950872" />
+    <property name="installed.kotlin.plugin.version" value="1.2.30-release-Studio3.0-1" />
+    <property name="android-component-compatibility-check" value="1520142893848" />
     <property name="Default.savedEditorTheme" value="_@user_Default" />
-    <property name="lastTip" value="62" />
-    <property name="newly.installed.api.level" value="26" />
+    <property name="lastTip" value="75" />
+    <property name="newly.installed.api.level" value="22" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="file.gist.reindex.count" value="2744" />
+    <property name="file.gist.reindex.count" value="3101" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
@@ -36,16 +36,16 @@
     <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
     <property name="AndroidEnableDdms" value="true" />
     <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/SkillsApp&#10;C:/Users/Champion/Documents/GitHub/SafeZone&#10;C:/Users/Champion/SkillsAppRepo&#10;C:/Users/Champion/.AndroidStudio3.0/config&#10;C:/Program Files/Android/Android Studio/jre&#10;C:/Program Files/Android/Android Studio/jre/jre&#10;C:/Users/Champion/Documents/AndroidGoogle&#10;C:/Program Files/Git/bin/git.exe&#10;C:/Program Files/Git/bin/bash.exe&#10;C:/Program Files/Git/git-bash.exe&#10;C:/Program Files/Git/git-cmd.exe&#10;C:/Users/Champion/Documents/AndroidGoogle/.gitignore&#10;C:/Users/Champion/Documents/Git-2.16.1.4-64-bit.exe&#10;C:/Users/Champion/Documents/AndroidGoogle/git&#10;C:/Users/Champion/Desktop/AppZip&#10;C:/Users/Champion/Desktop&#10;C:/Users/Champion/AndroidApplication&#10;C:/Users/Champion&#10;C:/Users/Champion/SafeZone&#10;C:/Users/Champion/AndroidApp&#10;C:/Users/Champion/Android App&#10;C:/Users/Champion/AndroidProjects&#10;C:/Users/Champion/Documents/android-samples-master/android-samples-master/tutorials/StyledMap&#10;C:/Users/Champion/ApkProjects/SafeZone0/app/build/outputs/apk/debug/app-debug.apk&#10;C:/Users/Champion/ApkProjects/SafeZone&#10;C:/Users/Champion/Source/SafeZone-git/Safe Zone/SafeZoneA/bin/Debug/SafeZoneA.SafeZoneA-Signed.apk&#10;C:/Users/Champion/AndroidStudioProjects/GitHubApp&#10;C:/Users/Champion/AndroidStudioProjects/SafeZone&#10;C:/Users/Champion/AndroidStudioProjects/MyNewApp/build.gradle&#10;C:/Users/Champion/AndroidStudioProjects/MyNewApp/app/build/outputs/apk/debug/app-debug.apk" />
-    <property name="kotlin.lastUpdateCheck" value="1519170609626" />
+    <property name="file.chooser.recent.files" value="C:/Users/Champion&#10;C:/Users/Champion/Documents/AndroidGoogle&#10;C:/Users/Champion/Desktop/ArrayClick-master/ArrayClick-master&#10;C:/Users/Champion/Desktop/ArrayClick-master&#10;C:/Users/Champion/Skills&#10;C:/Users/Champion/SkillsApp&#10;C:/Users/Champion/Documents/GitHub/Skills&#10;C:/Users/Champion/SkillsApp/.idea&#10;C:/Users/Champion/Documents/GitHub/SafeZone&#10;C:/Users/Champion/SkillsAppRepo&#10;C:/Users/Champion/.AndroidStudio3.0/config&#10;C:/Program Files/Android/Android Studio/jre&#10;C:/Program Files/Android/Android Studio/jre/jre&#10;C:/Program Files/Git/bin/git.exe&#10;C:/Program Files/Git/bin/bash.exe&#10;C:/Program Files/Git/git-bash.exe&#10;C:/Program Files/Git/git-cmd.exe&#10;C:/Users/Champion/Documents/AndroidGoogle/.gitignore&#10;C:/Users/Champion/Documents/Git-2.16.1.4-64-bit.exe&#10;C:/Users/Champion/Documents/AndroidGoogle/git&#10;C:/Users/Champion/Desktop/AppZip&#10;C:/Users/Champion/Desktop&#10;C:/Users/Champion/AndroidApplication&#10;C:/Users/Champion/SafeZone&#10;C:/Users/Champion/AndroidApp&#10;C:/Users/Champion/Android App&#10;C:/Users/Champion/AndroidProjects&#10;C:/Users/Champion/Documents/android-samples-master/android-samples-master/tutorials/StyledMap&#10;C:/Users/Champion/ApkProjects/SafeZone0/app/build/outputs/apk/debug/app-debug.apk&#10;C:/Users/Champion/ApkProjects/SafeZone" />
+    <property name="kotlin.lastUpdateCheck" value="1520237979389" />
     <property name="create.project.preferred.importer" value="Existing Sources" />
-    <property name="LAST_INJECTED_LANGUAGE" value="AndroidDataBinding" />
+    <property name="LAST_INJECTED_LANGUAGE" value="kotlin" />
     <property name="MobileminApi" value="19" />
     <property name="android.resource_dialog_splitter" value="0.64677805" />
     <property name="properties.mode" value="TABLE" />
     <property name="ANDROID.PANZOOM_X_POS" value="-3" />
     <property name="ANDROID.PANZOOM_Y_POS" value="-3" />
-    <property name="SAVED_COMPANY_DOMAIN" value="github.com" />
+    <property name="SAVED_COMPANY_DOMAIN" value="github.comjiltedflower" />
     <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.UNSCALED.WIDTH" value="225" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="last.apk.imported.location" value="$USER_HOME$/Source/SafeZone-git/Safe Zone/SafeZoneA/bin/Debug/SafeZoneA.SafeZoneA-Signed.apk" />
@@ -59,13 +59,16 @@
     <property name="gradle.runner.text.console_str" value="true" />
     <property name="gradle.runner.text.console" value="true" />
     <property name="gradle.test.runner.text.console_str" value="false" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6681416" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6917404" />
     <property name="fileTypeChangedCounter" value="1" />
     <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
     <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
-    <property name="NlScreenMode" value="BOTH" />
+    <property name="NlScreenMode" value="SCREEN_ONLY" />
     <property name="KEYMAP" value="properties&#10;component" />
     <property name="PLUGIN_FILTER" value="" />
     <property name="learn.toolwindow.button.info.shown" value="true" />
+    <property name="KEYMAP_IN_QUICK_LISTS" value="" />
+    <property name="kotlin.internal.mode.enabled" value="false" />
+    <property name="AndroidPlatformName" value="Android API 23 Platform" />
   </component>
 </application>

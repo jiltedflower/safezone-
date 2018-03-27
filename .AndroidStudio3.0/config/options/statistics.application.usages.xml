@@ -1,16 +1,18 @@
 <application>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="StripeButton[Android_Profiler].hidden" count="39" />
-      <entry feature="StripeButton[Android_Profiler].shown" count="32" />
-      <entry feature="StripeButton[Version_Control].shown" count="3" />
-      <entry feature="configure.code.style.on.selected.fragment" count="17" />
+      <entry feature="StripeButton[Android_Profiler].hidden" count="45" />
+      <entry feature="StripeButton[Android_Profiler].shown" count="35" />
+      <entry feature="StripeButton[Version_Control].shown" count="4" />
+      <entry feature="cidr.newFile.source" count="2" />
+      <entry feature="cidr.newFile.source.withHeader" count="2" />
+      <entry feature="configure.code.style.on.selected.fragment" count="21" />
       <entry feature="execute.AndroidJUnit.Debug" count="1" />
-      <entry feature="execute.AndroidRunConfigurationType.Android Profiler" count="3" />
-      <entry feature="execute.AndroidRunConfigurationType.Debug" count="93" />
-      <entry feature="execute.AndroidRunConfigurationType.Run" count="160" />
-      <entry feature="execute.GradleRunConfiguration.Debug" count="4" />
-      <entry feature="execute.GradleRunConfiguration.Run" count="14" />
+      <entry feature="execute.AndroidRunConfigurationType.Android Profiler" count="4" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="95" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="171" />
+      <entry feature="execute.GradleRunConfiguration.Debug" count="6" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="16" />
       <entry feature="execute.JUnit.Run" count="3" />
       <entry feature="execute.Remote.Debug" count="1" />
       <entry feature="git.branch.checkout.revision" count="1" />
@@ -23,31 +25,38 @@
       <entry feature="ide.help.reference.new.resource.file" count="1" />
       <entry feature="ide.help.reference.settingsdialog.project.structure.general" count="1" />
       <entry feature="ide.help.reference.version.control.enable.version.control.integration" count="1" />
-      <entry feature="ide.settings.Android_SDK" count="8" />
+      <entry feature="ide.settings.Android_SDK" count="11" />
       <entry feature="ide.settings.Appearance" count="1" />
       <entry feature="ide.settings.CVS" count="1" />
       <entry feature="ide.settings.Code_Completion" count="1" />
       <entry feature="ide.settings.Compiler" count="1" />
       <entry feature="ide.settings.Copyright_Profiles" count="1" />
-      <entry feature="ide.settings.Git" count="1" />
-      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Git" count="2" />
+      <entry feature="ide.settings.GitHub" count="2" />
       <entry feature="ide.settings.Ignored_Files" count="1" />
-      <entry feature="ide.settings.Kotlin_Compiler" count="2" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Kotlin_Compiler" count="3" />
+      <entry feature="ide.settings.Menus_and_Toolbars" count="1" />
       <entry feature="ide.settings.Plugins" count="1" />
-      <entry feature="ide.settings.Project_Structure" count="5" />
+      <entry feature="ide.settings.Project_Structure" count="6" />
+      <entry feature="ide.settings.Quick_Lists" count="3" />
+      <entry feature="ide.settings.Required_Plugins" count="1" />
+      <entry feature="ide.settings.Settings_Repository" count="2" />
+      <entry feature="ide.settings.System_Settings" count="1" />
       <entry feature="ide.settings.Terminal" count="3" />
-      <entry feature="ide.settings.Version_Control" count="9" />
-      <entry feature="ideaapp.started" count="32" />
-      <entry feature="terminal.win" count="15" />
-      <entry feature="tips.of.the.day.next" count="32" />
+      <entry feature="ide.settings.Version_Control" count="11" />
+      <entry feature="ideaapp.started" count="37" />
+      <entry feature="terminal.win" count="18" />
+      <entry feature="tips.of.the.day.next" count="40" />
       <entry feature="tips.of.the.day.prev" count="2" />
       <entry feature="vcs.log.RootColumnClick" count="1" />
-      <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
-      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="29" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="34" />
       <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="3" />
-      <entry feature="welcome.screen.WelcomeScreen.GoogleCloudTools.SampleImport" count="2" />
-      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="2" />
-      <entry feature="welcome.screen.WelcomeScreen.RunAndroidSdkManager" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GoogleCloudTools.SampleImport" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.RunAndroidSdkManager" count="2" />
+      <entry feature="welcome.screen.null" count="1" />
     </counts>
   </component>
 </application>

@@ -2,8 +2,13 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="C:\Users\Champion\Documents\AndroidGoogle\SkillsApp" />
         <option value="C:\Users\Champion\Documents\AndroidGoogle" />
+        <option value="C:\Users\Champion\Desktop\ArrayClick-master\ArrayClick-master" />
+        <option value="C:\Users\Champion\Desktop\ArrayClick-master" />
+        <option value="C:\Users\Champion\Skills" />
+        <option value="C:\Users\Champion\TextSwitcher" />
+        <option value="C:\Users\Champion\Orders" />
+        <option value="C:\Users\Champion\TestButtons" />
         <option value="C:\Users\Champion\Documents\AndroidGoogle\SafeZone" />
         <option value="C:\Users\Champion\Documents\android-samples-master\android-samples-master\tutorials\StyledMap" />
         <option value="C:\Users\Champion\AndroidStudioProjects\GitHubApp" />
@@ -38,10 +43,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="C:\Users\Champion\Documents\AndroidGoogle\SkillsApp" />
+        <option value="C:\Users\Champion\Skills" />
       </list>
     </option>
-    <option name="lastPath" value="C:\Users\Champion\Documents\AndroidGoogle\SkillsApp" />
+    <option name="lastPath" value="C:\Users\Champion\Documents\AndroidGoogle" />
     <option name="additionalInfo">
       <map>
         <entry key="C:\Users\Champion\AndroidApp">
@@ -297,14 +302,36 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:\Users\Champion\Desktop\ArrayClick-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1520401211847" />
+              <option name="buildTimestamp" value="1510251684189" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Champion\Desktop\ArrayClick-master\ArrayClick-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1520404968512" />
+              <option name="buildTimestamp" value="1510251684189" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:\Users\Champion\Documents\AndroidGoogle">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="AI-171.4443003" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1519167664240" />
-              <option name="buildTimestamp" value="1510251685908" />
+              <option name="projectOpenTimestamp" value="1520493355768" />
+              <option name="buildTimestamp" value="1510251684189" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -325,7 +352,7 @@
               <option name="build" value="AI-171.4443003" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1519172555371" />
+              <option name="projectOpenTimestamp" value="1519194361560" />
               <option name="buildTimestamp" value="1510251705006" />
             </RecentProjectMetaInfo>
           </value>
@@ -363,6 +390,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:\Users\Champion\Orders">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1519770377442" />
+              <option name="buildTimestamp" value="1510251686247" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:\Users\Champion\SafeZone">
           <value>
             <RecentProjectMetaInfo>
@@ -396,8 +434,41 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:\Users\Champion\Skills">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1520295759682" />
+              <option name="buildTimestamp" value="1510251684189" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Champion\TestButtons">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1519764347520" />
+              <option name="buildTimestamp" value="1510251686247" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Champion\TextSwitcher">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4443003" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1520243349795" />
+              <option name="buildTimestamp" value="1510251684189" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="$USER_HOME$/Documents/AndroidGoogle" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/ArrayClick-master" />
   </component>
 </application>
