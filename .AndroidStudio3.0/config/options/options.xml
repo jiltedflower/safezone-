@@ -4,9 +4,9 @@
     <property name="AndroidInitConfigurator.V3" value="true" />
     <property name="AndroidInitConfigurator.V1" value="true" />
     <property name="installed.kotlin.plugin.version" value="1.2.30-release-Studio3.0-1" />
-    <property name="android-component-compatibility-check" value="1520142893848" />
+    <property name="android-component-compatibility-check" value="1522134423323" />
     <property name="Default.savedEditorTheme" value="_@user_Default" />
-    <property name="lastTip" value="75" />
+    <property name="lastTip" value="76" />
     <property name="newly.installed.api.level" value="22" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="file.gist.reindex.count" value="3101" />

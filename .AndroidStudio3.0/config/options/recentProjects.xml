@@ -2,10 +2,10 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="C:\Users\Champion\Skills" />
         <option value="C:\Users\Champion\Documents\AndroidGoogle" />
         <option value="C:\Users\Champion\Desktop\ArrayClick-master\ArrayClick-master" />
         <option value="C:\Users\Champion\Desktop\ArrayClick-master" />
-        <option value="C:\Users\Champion\Skills" />
         <option value="C:\Users\Champion\TextSwitcher" />
         <option value="C:\Users\Champion\Orders" />
         <option value="C:\Users\Champion\TestButtons" />
@@ -46,7 +46,7 @@
         <option value="C:\Users\Champion\Skills" />
       </list>
     </option>
-    <option name="lastPath" value="C:\Users\Champion\Documents\AndroidGoogle" />
+    <option name="lastPath" value="C:\Users\Champion\Skills" />
     <option name="additionalInfo">
       <map>
         <entry key="C:\Users\Champion\AndroidApp">
@@ -440,8 +440,8 @@
               <option name="build" value="AI-171.4443003" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1520295759682" />
-              <option name="buildTimestamp" value="1510251684189" />
+              <option name="projectOpenTimestamp" value="1522134462017" />
+              <option name="buildTimestamp" value="1510251714774" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
